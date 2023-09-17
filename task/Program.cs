@@ -1,4 +1,4 @@
-﻿class task
+﻿public class Task
 {
     void print()
     {
