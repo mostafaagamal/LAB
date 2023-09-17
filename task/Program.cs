@@ -1,6 +1,6 @@
 ﻿public class Task
 {
-    public void print()
+  public void print()
     {
         System.Console.WriteLine("print cs");
     }
